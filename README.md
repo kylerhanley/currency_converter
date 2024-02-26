@@ -19,3 +19,6 @@ to enter the following code into the program
 name = s.recv(1024).decode()
 ```
 Then you will be able to utilize the ramdomly generated name in the program. 
+
+### C. UML Diagram 
+![361UML](https://github.com/kylerhanley/currency_converter/assets/122304552/a1f4be0b-c175-4e28-a087-ac5586668ed4)
